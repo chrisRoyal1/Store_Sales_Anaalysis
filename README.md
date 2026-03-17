@@ -95,8 +95,7 @@ Three calculated columns were engineered:
 
 ## Dashboard
 
-![Dashboard Preview](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15358d2d-7d4b-48b3-a63b-b61cfac238a2" />
-)
+![Dashboard Preview](images/dashboard_preview.png)
 
 🔗 [View Interactive Tableau Dashboard](#[your-tableau-public-link](https://public.tableau.com/app/profile/christopher.john7582/viz/StoreSalesPerformanceDashboard_17722205108080/Dashboard1?publish=yes))
 
